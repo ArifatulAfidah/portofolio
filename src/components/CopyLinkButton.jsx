@@ -3,8 +3,8 @@ import { useState } from 'react';
 import { getConfigData } from "../data/configReader";
 
 
-function CopyEmailButton() {
-  const [buttonText, setButtonText] = useState("Copy Email");
+function CopyLinkButton() {
+  const [buttonText, setButtonText] = useState("Copy Linknyaa ");
   
   const configData = getConfigData();
 
@@ -43,4 +43,4 @@ function CopyEmailButton() {
   );
 }
 
-export default CopyEmailButton;
+export default CopyLinkButton;

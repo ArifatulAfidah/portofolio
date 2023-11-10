@@ -1,33 +1,30 @@
 {
-  "job": "Frontend Developer",
-  "name": "John Doe",
-  "desc": "The traveler of this path, a web designer in Turkey.",
-  "email": "john.doe@example.com",
+  "job": "Web Development",
+  "name": "Arifatul Afidah",
+  "desc": "hobinya turuu tapi ingin sukses",
+  "email": "arifatulafidah530@gmail.com",
   "status": "on",
-  "hireMeLink": "https://twitter.com/iamkaanayyildiz",
+  "hireMeLink": "https://github.com/ArifatulAfidah",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Benfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-image-url": "benfolio/assets/atul3",
+      "project-name": "Portfolio",
+      "project-desc": "Beragam karya yang ga seberapa haha"
     }
   ],
   "social": [
-    {
-      "icon": "FaXTwitter",
-      "link": "https://x.com"
-    },
+    
     {
       "icon": "FaInstagram",
-      "link": "https://instagram.com"
+      "link": "https://instagram.com/_fafa.jpg?igshid=NzZlODBkYWE4Ng=="
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com"
+      "link": "https://github.com/ArifatulAfidah"
     },
     {
       "icon": "FaLinkedinIn",
-      "link": "https://linkedin.com"
+      "link": "https://www.linkedin.com/in/arifatul-afidah-b00181280"
     }
   ]
 }

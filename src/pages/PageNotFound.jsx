@@ -3,7 +3,7 @@ export default function About() {
         <>
           <div className="flex justify-center items-center text-center">
 
-            <span className="text-4xl font-medium">404 Page Not Found</span>
+            <span className="text-4xl font-medium"> Not Found mang eaa!!</span>
 
           </div>
         </>
